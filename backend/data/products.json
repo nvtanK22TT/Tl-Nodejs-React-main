@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Dây Curoa thay thế Yamaha/Exciter",
+        "price": "15.00",
+        "description": "Dây Curoa chịu lực tốt, tuổi thọ cao, lắp cho các dòng xe phổ biến Yamaha/Exciter.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/day-curoa-yamaha-exciter",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/day_curoa.jpg"
+            }
+        ],
+        "category": "Dây Curoa",
+        "seller": "Cửa hàng phụ tùng C",
+        "stock": 80,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Lọc nhớt thay thế - 1 chiếc",
+        "price": "3.20",
+        "description": "Lọc nhớt tiêu chuẩn, lọc sạch tạp chất, phù hợp nhiều dòng xe số và tay ga.",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "products/loc-nhot-1",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231284/products/loc_nhot.jpg"
+            }
+        ],
+        "category": "Lọc Nhớt",
+        "seller": "Cửa hàng phụ tùng D",
+        "stock": 260,
+        "numOfReviews": 42,
+        "reviews": []
+    },
+    {
+        "name": "Dây Curoa thay thế Yamaha/Exciter",
+        "price": "15.00",
+        "description": "Dây Curoa chịu lực tốt, tuổi thọ cao, lắp cho các dòng xe phổ biến Yamaha/Exciter.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/day_curoa",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/day_curoa.jpg"
+            }
+        ],
+        "category": "Dây Curoa",
+        "seller": "Cửa hàng phụ tùng C",
+        "stock": 80,
+        "numOfReviews": 18,
+        "reviews": []
+    },
+    {
+        "name": "Lọc nhớt thay thế - 1 chiếc",
+        "price": "3.20",
+        "description": "Lọc nhớt tiêu chuẩn, lọc sạch tạp chất, phù hợp nhiều dòng xe số và tay ga.",
+        "ratings": 4.1,
+        "images": [
+            {
+                "public_id": "products/loc_nhot",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231284/products/loc_nhot.jpg"
+            }
+        ],
+        "category": "Lọc Nhớt",
+        "seller": "Cửa hàng phụ tùng D",
+        "stock": 260,
+        "numOfReviews": 42,
+        "reviews": []
+    },
+    {
+        "name": "Nhông sên dĩa (bộ 3) - thể thao",
+        "price": "29.99",
+        "description": "Nhông sên dĩa loại thể thao chịu tải cao, cho phản hồi số tốt hơn khi tăng tốc.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/nhong-sen-dia-the-thao",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231298/products/nhong_sen_dia_sport.jpg"
+            }
+        ],
+        "category": "Nhong Sên Dĩa",
+        "seller": "Cửa hàng phụ tùng Q",
+        "stock": 60,
+        "numOfReviews": 16,
+        "reviews": []
+    }
+        ,
+        {
+        "name": "Nhớt bán tổng hợp 10W-30 - 1L",
+        "price": "6.50",
+        "description": "Nhớt bán tổng hợp dành cho xe số, cân bằng giữa tiết kiệm nhiên liệu và bảo vệ động cơ.",
+        "ratings": 4.4,
+        "images": [
+            {
+                "public_id": "products/nhot_10w30",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231294/products/nhot_10w30.jpg"
+            }
+        ],
+        "category": "Nhớt",
+        "seller": "Cửa hàng phụ tùng M",
+        "stock": 320,
+        "numOfReviews": 68,
+        "reviews": []
+    },
+    {
+        "name": "Lọc nhớt cao cấp - Premium",
+        "price": "5.75",
+        "description": "Lọc nhớt premium với khả năng lọc tốt hơn, kéo dài chu kỳ thay nhớt.",
+        "ratings": 4.6,
+        "images": [
+            {
+                "public_id": "products/loc_nhot_premium",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231295/products/loc_nhot_premium.jpg"
+            }
+        ],
+        "category": "Lọc Nhớt",
+        "seller": "Cửa hàng phụ tùng N",
+        "stock": 180,
+        "numOfReviews": 34,
+        "reviews": []
+    },
+    {
+        "name": "Lọc gió than hoạt tính - 1 chiếc",
+        "price": "7.00",
+        "description": "Lọc gió than hoạt tính giúp giảm mùi và bụi, cải thiện hiệu suất nạp khí.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "public_id": "products/loc_gio_than",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231296/products/loc_gio_than.jpg"
+            }
+        ],
+        "category": "Lọc Gió",
+        "seller": "Cửa hàng phụ tùng O",
+        "stock": 210,
+        "numOfReviews": 45,
+        "reviews": []
+    },
+    {
+        "name": "Lọc gió giấy tiêu chuẩn - 1 chiếc",
+        "price": "3.50",
+        "description": "Lọc gió giấy tiêu chuẩn phù hợp nhiều dòng xe, giá rẻ và dễ thay.",
+        "ratings": 4.0,
+        "images": [
+            {
+                "public_id": "products/loc_gio_giay",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231297/products/loc_gio_giay.jpg"
+            }
+        ],
+        "category": "Lọc Gió",
+        "seller": "Cửa hàng phụ tùng P",
+        "stock": 450,
+        "numOfReviews": 22,
+        "reviews": []
+    },
+    {
+        "name": "Nhông sên dĩa (bộ 3) - thể thao",
+        "price": "29.99",
+        "description": "Nhông sên dĩa loại thể thao chịu tải cao, cho phản hồi số tốt hơn khi tăng tốc.",
+        "ratings": 4.3,
+        "images": [
+            {
+                "public_id": "products/nhong_sen_dia_sport",
+                "url": "https://res.cloudinary.com/bookit/image/upload/v1606231298/products/nhong_sen_dia_sport.jpg"
+            }
+        ],
+        "category": "Nhong Sên Dĩa",
+        "seller": "Cửa hàng phụ tùng Q",
+        "stock": 60,
+        "numOfReviews": 16,
+        "reviews": []
+    }
+]
