@@ -84,16 +84,16 @@ function App() {
           <Route path="/product/:id" component={ProductDetails} exact />
           <Route path="/trace-product" component={TraceProduct} exact />
 
-          {!loading && (!isAuthenticated || user.role !== 'admin') && (
+          {!loading && (!isAuthenticated || user?.role !== 'admin') && (
             <Route path="/cart" component={Cart} exact />       
           )}
-          {!loading && (!isAuthenticated || user.role !== 'admin') && (
+          {!loading && (!isAuthenticated || user?.role !== 'admin') && (
             <ProtectedRoute path="/orders/me" component={ListOrders} exact />
           )}
-          {!loading && (!isAuthenticated || user.role !== 'admin') && (
+          {!loading && (!isAuthenticated || user?.role !== 'admin') && (
             <ProtectedRoute path="/shipping" component={Shipping} />
           )}
-          {!loading && (!isAuthenticated || user.role !== 'admin') && (
+          {!loading && (!isAuthenticated || user?.role !== 'admin') && (
             <ProtectedRoute path="/confirm" component={ConfirmOrder} exact />
           )} 
           <ProtectedRoute path="/success" component={OrderSuccess} />
