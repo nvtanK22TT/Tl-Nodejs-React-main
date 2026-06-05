@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+
+# build
+build/
+frontend/build/
+
+# cache
+.cache/
+frontend/.cache/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+frontend/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+backend/config/config.env

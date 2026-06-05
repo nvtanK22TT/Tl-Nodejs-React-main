@@ -1,8 +1,0 @@
-# Node
-node_modules/
-
-# Ignore backend env config
-backend/config/config.env
-
-# Build
-frontend/build/
