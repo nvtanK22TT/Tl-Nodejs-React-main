@@ -30,7 +30,7 @@ exports.generateProductQRCode = async (req, res, next) => {
     }
 }
 
-const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3000'
+const FRONTEND_URL = process.env.FRONTEND_URL || 'https://tl-nodejs-react-main-a67s.vercel.app/'
 const TRACE_PRODUCT_PATH = '/trace-product'
 
 const buildTraceUrl = (secureToken) => {
