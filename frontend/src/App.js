@@ -61,13 +61,24 @@ function App() {
     store.dispatch(loadUser())
 
     async function getStripeApiKey() {
-      try {
-        const { data } = await axios.get('/api/v1/stripeapi');
-        setStripePromise(loadStripe(data.stripeApiKey))
-      } catch (error) {
-        console.warn('Stripe API key unavailable until login', error.response?.data?.message || error.message)
-      }
+  try {
+    const { data } = await axios.get('/api/v1/stripeapi');
+
+    console.log('Stripe response:', data);
+
+    if (data?.stripeApiKey) {
+      setStripePromise(loadStripe(data.stripeApiKey));
+    } else {
+      console.warn('stripeApiKey missing from API response');
     }
+
+  } catch (error) {
+    console.warn(
+      'Stripe API key unavailable until login',
+      error.response?.data?.message || error.message
+    );
+  }
+}
 
     getStripeApiKey();
 
